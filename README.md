@@ -1,1 +1,1 @@
-# javascript-mckinley
+# factorial-mckinley
